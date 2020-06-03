@@ -1,0 +1,21 @@
+{
+    "name": "guangtouqiang/blog",
+    "description": "this is guangtouqiang test bag",
+    "type": "1",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "guangtouqiang",
+            "email": "xiaozhengguo521@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "guangtouqiang\\": "src/guangtouqiang"
+        }
+    }
+}
